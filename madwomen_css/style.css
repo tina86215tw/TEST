@@ -1,0 +1,18 @@
+body{
+	max-width: 1280px;
+	max-height: 650px;
+	margin-right: auto;
+	margin-left:auto;
+	border-radius: 3px;
+	background-image: url("./bg_mad.png");
+}
+.enter{
+	float:left;
+	margin-left:17px;
+	margin-top:142px;
+}
+.arrow{
+	float:left;
+	margin-left:524px;
+	margin-top:142px;
+}
